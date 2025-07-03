@@ -1,6 +1,6 @@
 # Emotion Recognition using Deep Learning on FER2013 Dataset
 
-We implemented and compared multiple deep learning models to perform facial emotion recognition using the FER2013 dataset. The best-performing model is integrated into a real-time application that overlays floating emojis based on the detected emotions.
+We implemented and compared multiple deep learning models to perform facial emotion recognition using the FER2013 dataset. The best-performing model is integrated into a real-time application and we are working on a feature that overlays floating emojis based on the detected emotions.
 
 ## Models Implemented
 
